@@ -1,0 +1,8 @@
+=== Model Parameter Statistics ===
+Total params      : 52,399,616
+Trainable params  : 52,399,616
+Non-trainable     : 0
+
+By top-level submodule:
+ - encoder      total=27,173,888  trainable=27,173,888
+ - decoder      total=33,483,776  trainable=33,483,776

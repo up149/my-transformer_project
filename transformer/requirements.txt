@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision
+torchaudio
+sentencepiece>=0.1.99
+sacrebleu>=2.3.0
+numpy
+pandas
+tqdm
+matplotlib
+pyyaml
